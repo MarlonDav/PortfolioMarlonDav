@@ -42,7 +42,7 @@ export default function Home() {
             ¡Dejo mi huella creativa y divertida en cada proyecto que toco, creando experiencias mágicas en la web!
             </p>
             <div className='flex items-center self-start mt-2 lg:self-center '>
-              <Link href="" target={"_blank"}
+              <Link href="/Resume.pdf" target={"_blank"}
               className='flex items-center bg-black text-lime-50 px-2.5 rounded-lg text-lg font-semibold hover:bg-white hover:text-black 
               border border-solid border-transparent hover:border-black dark:bg-white dark:text-black hover:dark:bg-black hover:dark:text-white
               hover:dark:border-white md:p-2 md:px-4 md:text-base
